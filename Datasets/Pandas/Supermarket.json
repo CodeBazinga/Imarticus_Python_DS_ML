@@ -1,0 +1,127 @@
+[
+  {
+    "Day": "Monday",
+    "Store": "A",
+    "Percentage": 79
+  },
+  {
+    "Day": "Monday",
+    "Store": "B",
+    "Percentage": 81
+  },
+  {
+    "Day": "Monday",
+    "Store": "C",
+    "Percentage": 74
+  },
+  {
+    "Day": "Monday",
+    "Store": "D",
+    "Percentage": 77
+  },
+  {
+    "Day": "Monday",
+    "Store": "E",
+    "Percentage": 66
+  },
+  {
+    "Day": "Tuesday",
+    "Store": "A",
+    "Percentage": 78
+  },
+  {
+    "Day": "Tuesday",
+    "Store": "B",
+    "Percentage": 86
+  },
+  {
+    "Day": "Tuesday",
+    "Store": "C",
+    "Percentage": 89
+  },
+  {
+    "Day": "Tuesday",
+    "Store": "D",
+    "Percentage": 97
+  },
+  {
+    "Day": "Tuesday",
+    "Store": "E",
+    "Percentage": 86
+  },
+  {
+    "Day": "Wednesday",
+    "Store": "A",
+    "Percentage": 81
+  },
+  {
+    "Day": "Wednesday",
+    "Store": "B",
+    "Percentage": 87
+  },
+  {
+    "Day": "Wednesday",
+    "Store": "C",
+    "Percentage": 84
+  },
+  {
+    "Day": "Wednesday",
+    "Store": "D",
+    "Percentage": 94
+  },
+  {
+    "Day": "Wednesday",
+    "Store": "E",
+    "Percentage": 82
+  },
+  {
+    "Day": "Thursday",
+    "Store": "A",
+    "Percentage": 80
+  },
+  {
+    "Day": "Thursday",
+    "Store": "B",
+    "Percentage": 83
+  },
+  {
+    "Day": "Thursday",
+    "Store": "C",
+    "Percentage": 81
+  },
+  {
+    "Day": "Thursday",
+    "Store": "D",
+    "Percentage": 88
+  },
+  {
+    "Day": "Thursday",
+    "Store": "E",
+    "Percentage": 83
+  },
+  {
+    "Day": "Friday",
+    "Store": "A",
+    "Percentage": 70
+  },
+  {
+    "Day": "Friday",
+    "Store": "B",
+    "Percentage": 74
+  },
+  {
+    "Day": "Friday",
+    "Store": "C",
+    "Percentage": 77
+  },
+  {
+    "Day": "Friday",
+    "Store": "D",
+    "Percentage": 89
+  },
+  {
+    "Day": "Friday",
+    "Store": "E",
+    "Percentage": 68
+  }
+]

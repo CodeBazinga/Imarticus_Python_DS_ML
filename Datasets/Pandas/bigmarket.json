@@ -1,0 +1,127 @@
+[
+  {
+    "Month": "Jan",
+    "Store": "A",
+    "Sales": 31037
+  },
+  {
+    "Month": "Jan",
+    "Store": "B",
+    "Sales": 20722
+  },
+  {
+    "Month": "Jan",
+    "Store": "C",
+    "Sales": 24557
+  },
+  {
+    "Month": "Jan",
+    "Store": "D",
+    "Sales": 34649
+  },
+  {
+    "Month": "Jan",
+    "Store": "E",
+    "Sales": 29795
+  },
+  {
+    "Month": "Feb",
+    "Store": "A",
+    "Sales": 29133
+  },
+  {
+    "Month": "Feb",
+    "Store": "B",
+    "Sales": 22695
+  },
+  {
+    "Month": "Feb",
+    "Store": "C",
+    "Sales": 28312
+  },
+  {
+    "Month": "Feb",
+    "Store": "D",
+    "Sales": 31454
+  },
+  {
+    "Month": "Feb",
+    "Store": "E",
+    "Sales": 46267
+  },
+  {
+    "Month": "March",
+    "Store": "A",
+    "Sales": 32961
+  },
+  {
+    "Month": "March",
+    "Store": "B",
+    "Sales": 26451
+  },
+  {
+    "Month": "March",
+    "Store": "C",
+    "Sales": 47814
+  },
+  {
+    "Month": "March",
+    "Store": "D",
+    "Sales": 36069
+  },
+  {
+    "Month": "March",
+    "Store": "E",
+    "Sales": 31874
+  },
+  {
+    "Month": "Apr",
+    "Store": "A",
+    "Sales": 27253
+  },
+  {
+    "Month": "Apr",
+    "Store": "B",
+    "Sales": 40241
+  },
+  {
+    "Month": "Apr",
+    "Store": "C",
+    "Sales": 47488
+  },
+  {
+    "Month": "Apr",
+    "Store": "D",
+    "Sales": 25432
+  },
+  {
+    "Month": "Apr",
+    "Store": "E",
+    "Sales": 33880
+  },
+  {
+    "Month": "May",
+    "Store": "A",
+    "Sales": 29487
+  },
+  {
+    "Month": "May",
+    "Store": "B",
+    "Sales": 40001
+  },
+  {
+    "Month": "May",
+    "Store": "C",
+    "Sales": 46482
+  },
+  {
+    "Month": "May",
+    "Store": "D",
+    "Sales": 46313
+  },
+  {
+    "Month": "May",
+    "Store": "E",
+    "Sales": 47594
+  }
+]

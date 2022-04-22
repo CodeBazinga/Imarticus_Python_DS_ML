@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Aishwarya</Author>
+  <LastAuthor>Admin</LastAuthor>
+  <Created>2020-03-15T01:16:32Z</Created>
+  <LastSaved>2020-03-15T01:18:36Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <CustomDocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <WorkbookGuid dt:dt="string">d23d535a-e7f8-4bd9-b4d0-d349c85dd28b</WorkbookGuid>
+ </CustomDocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>4635</WindowHeight>
+  <WindowWidth>11670</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="bigmarket">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=bigmarket!R1C1:R26C3"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="26" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row>
+    <Cell><Data ss:Type="String">Month</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Store</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Sales</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Jan</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">A</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">31037</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Jan</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">B</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">20722</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Jan</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">C</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">24557</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Jan</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">D</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">34649</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Jan</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">E</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">29795</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Feb</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">A</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">29133</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Feb</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">B</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">22695</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Feb</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">C</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">28312</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Feb</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">D</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">31454</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Feb</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">E</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">46267</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">March</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">A</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">32961</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">March</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">B</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">26451</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">March</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">C</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">47814</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">March</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">D</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">36069</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">March</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">E</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">31874</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Apr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">A</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">27253</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Apr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">B</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">40241</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Apr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">C</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">47488</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Apr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">D</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">25432</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Apr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">E</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">33880</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">May</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">A</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">29487</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">May</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">B</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">40001</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">May</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">C</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">46482</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">May</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">D</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">46313</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">May</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">E</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Formula="=RANDBETWEEN(20000,50000)"><Data ss:Type="Number">47594</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R1C1:R26C3"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+</Workbook>

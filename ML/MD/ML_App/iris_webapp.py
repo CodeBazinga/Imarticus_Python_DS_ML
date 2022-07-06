@@ -7,14 +7,6 @@ rf = pickle.load(open('rf_model.pkl','rb'))
 svc = pickle.load(open('svc_model.pkl','rb'))
 dt = pickle.load(open('dt_model.pkl','rb'))
 
-def classify(num):
-    if num==1:
-        return 1
-    elif num==2:
-        return 2
-    else:
-        return 0
-
 st.title("Iris Classification Web App")
 html_temp = """
     <div style="background-color:darkblue ;padding:10px">

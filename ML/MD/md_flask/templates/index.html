@@ -1,0 +1,24 @@
+<html>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crosso
+    rigin="anonymous">    
+<body>
+	<div class="login">
+		<h2>Flower Type Classification</h2>
+			<p>Describe flower features:</p>
+			<form action="{{url_for('predict')}}" method="post">
+				<input type="text" name="sepal_length" placeholder="Sepal Length" required="required"><br>
+				<input type="text" name="sepal_width" placeholder="Sepal Width" required="required"><br>
+                <input type="text" name="petal_length" placeholder="Petal Length" required="required"><br>
+				<input type="text" name="petal_width" placeholder="Petal Width" required="required"><br>
+				<button type="submit" class="btn btn-primary btn-block btn-large"> Predict Flower Type</button>
+			</form>
+			<br>
+			<br>	
+            {% if prediction_text %}
+            <b> {{prediction_text}}</b>
+            {% else %}
+            <b>Prediction Results : </b>
+            {% endif %}
+	</div>
+</body>
+</html>
